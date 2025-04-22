@@ -1,5 +1,5 @@
 
-## Prevew : 
+## Preview : 
 ![alt text](<Screenshot 2025-04-23 041016-1.png>)
 
 ## Scan the QR CODE:
